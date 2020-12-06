@@ -6,8 +6,8 @@
 4. Change db-config.php to your database requirements.
 
 # Notes
-# Uses Bootstrap, PHP, mySQL
-# Fake simulated payment portal and completion.
-# Apply your frontend code
+- Uses Bootstrap, PHP, mySQL
+- Fake simulated payment portal and completion.
+- Apply your frontend code
 
 GLHF
