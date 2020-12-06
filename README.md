@@ -1,2 +1,13 @@
 # teamamovies
-Project Source files for TeamAMovies.
+# How to run
+1. Get xampp/wamp/lamp.
+2. Copy files to htdocs.
+3. Import sql(phpmyadmin?) from root directory.
+4. Change db-config.php to your database requirements.
+
+# Notes
+# Uses Bootstrap, PHP, mySQL
+# Fake simulated payment portal and completion.
+# Apply your frontend code
+
+GLHF
