@@ -9,5 +9,6 @@
 - Uses Bootstrap, PHP, mySQL
 - Fake simulated payment portal and completion.
 - Apply your frontend code
+- For New User registration, when asked for verification code , type "verify" into the input field.
 
 GLHF
