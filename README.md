@@ -10,5 +10,5 @@
 - Fake simulated payment portal and completion.
 - Apply your frontend code
 - For New User registration, when asked for verification code , type "verify" into the input field.
-
+- Two database are included, one is functional with users, admins, pictures and the other is empty.
 GLHF
